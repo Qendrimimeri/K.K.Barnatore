@@ -1,7 +1,11 @@
-Mire se vini 
+#Mire se vini 
 
-se pari duhet qe te keni nodejs run time environmt te instaluar
+##se pari duhet qe te keni nodejs run time environmt te instaluar
 
 pastaj pasti ta keni projktin ne local environment (machine). shtypni ket komand  " npm install "
 per ti instaluar te gjitha paketat.
 
+"Pasi ta keni hapur ne vs code shkruani kete komand ne terminal   cd database "
+pastaj shkruani prap ne konsole ket komand  ' json-server --watch db.json '
+
+vazhdoni me aplikacionin
