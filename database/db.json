@@ -1,37 +1,70 @@
 {
-    "users": [
-        {
-            "emriKompanis": "Barnatore Imeri",
-            "regjioni": "Prishtine",
-            "nrTelefonit": "+38344395902",
-            "email": "qendrim.s.imeri@gmail.com",
-            "password": "qendrimi123",
-            "temperatura": "77",
-            "lageshtia": "96",
-            "ndriqimi": "370",
-            "id": 1
-        },
-        {
-            "emriKompanis": "Barnatore Imeri",
-            "regjioni": "Prishtine",
-            "nrTelefonit": "+38344395902",
-            "email": "qendrim.s.imeri@gmail.com",
-            "password": "qendrimi123",
-            "temperatura": "77",
-            "lageshtia": "96",
-            "ndriqimi": "370",
-            "id": 2
-        },
-        {
-            "emriKompanis": "Barnatore Imeri",
-            "regjioni": "Prishtine",
-            "nrTelefonit": "+38344395902",
-            "email": "qendrim.s.imeri@gmail.com",
-            "password": "qendrimi123",
-            "temperatura": "77",
-            "lageshtia": "96",
-            "ndriqimi": "370",
-            "id": 3
-        }
-    ]
+  "users": [
+    {
+      "emriKompanis": "Barnatore Imeri",
+      "regjioni": "Prishtine",
+      "nrTelefonit": "+38344395902",
+      "email": "qendrim.s.imeri@gmail.com",
+      "password": "qendrimi123",
+      "temperatura": "-3",
+      "lageshtia": "44",
+      "ndriqimi": "476",
+      "id": 1
+    },
+    {
+      "emriKompanis": "Barnatore Qendrimi",
+      "regjioni": "Gjilan",
+      "nrTelefonit": "+38344395932",
+      "email": "qendrim@gmail.com",
+      "password": "qendrim",
+      "temperatura": "1",
+      "lageshtia": "48",
+      "ndriqimi": "499",
+      "id": 2
+    },
+    {
+      "emriKompanis": "Barnatore Altini",
+      "regjioni": "Ferizaj",
+      "nrTelefonit": "+38344555902",
+      "email": "imeri@gmail.com",
+      "password": "qendrimi123",
+      "temperatura": "3",
+      "lageshtia": "59",
+      "ndriqimi": "455",
+      "id": 3
+    },
+    {
+      "emriKompanis": "Barnatore Shpeta",
+      "regjioni": "Mitrovice",
+      "nrTelefonit": "+38344395902",
+      "email": "qendrim.s.imeri@gmail.com",
+      "password": "qendrimi123",
+      "temperatura": "7",
+      "lageshtia": "38",
+      "ndriqimi": "495",
+      "id": 4
+    },
+    {
+      "emriKompanis": "Barnatore John",
+      "regjioni": "Gjakove",
+      "nrTelefonit": "+38344395932",
+      "email": "qendrim@gmail.com",
+      "password": "qendrim",
+      "temperatura": "-1",
+      "lageshtia": "52",
+      "ndriqimi": "477",
+      "id": 5
+    },
+    {
+      "emriKompanis": "Barnatore Beh",
+      "regjioni": "Peje",
+      "nrTelefonit": "+38344555902",
+      "email": "imeri@gmail.com",
+      "password": "qendrimi123",
+      "temperatura": "-2",
+      "lageshtia": "56",
+      "ndriqimi": "522",
+      "id": 6
+    }
+  ]
 }
