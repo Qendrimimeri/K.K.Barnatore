@@ -6,9 +6,9 @@
       "nrTelefonit": "+38344395902",
       "email": "qendrim.s.imeri@gmail.com",
       "password": "qendrimi123",
-      "temperatura": "-3",
-      "lageshtia": "44",
-      "ndriqimi": "476",
+      "temperatura": "10",
+      "lageshtia": "41",
+      "ndriqimi": "577",
       "id": 1
     },
     {
@@ -17,9 +17,9 @@
       "nrTelefonit": "+38344395932",
       "email": "qendrim@gmail.com",
       "password": "qendrim",
-      "temperatura": "1",
-      "lageshtia": "48",
-      "ndriqimi": "499",
+      "temperatura": "7",
+      "lageshtia": "37",
+      "ndriqimi": "507",
       "id": 2
     },
     {
@@ -28,9 +28,9 @@
       "nrTelefonit": "+38344555902",
       "email": "imeri@gmail.com",
       "password": "qendrimi123",
-      "temperatura": "3",
-      "lageshtia": "59",
-      "ndriqimi": "455",
+      "temperatura": "10",
+      "lageshtia": "34",
+      "ndriqimi": "330",
       "id": 3
     },
     {
@@ -39,9 +39,9 @@
       "nrTelefonit": "+38344395902",
       "email": "qendrim.s.imeri@gmail.com",
       "password": "qendrimi123",
-      "temperatura": "7",
-      "lageshtia": "38",
-      "ndriqimi": "495",
+      "temperatura": "8",
+      "lageshtia": "45",
+      "ndriqimi": "528",
       "id": 4
     },
     {
@@ -50,9 +50,9 @@
       "nrTelefonit": "+38344395932",
       "email": "qendrim@gmail.com",
       "password": "qendrim",
-      "temperatura": "-1",
-      "lageshtia": "52",
-      "ndriqimi": "477",
+      "temperatura": "2",
+      "lageshtia": "34",
+      "ndriqimi": "479",
       "id": 5
     },
     {
@@ -61,9 +61,9 @@
       "nrTelefonit": "+38344555902",
       "email": "imeri@gmail.com",
       "password": "qendrimi123",
-      "temperatura": "-2",
-      "lageshtia": "56",
-      "ndriqimi": "522",
+      "temperatura": "2",
+      "lageshtia": "34",
+      "ndriqimi": "499",
       "id": 6
     }
   ]
